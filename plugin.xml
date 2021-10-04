@@ -37,6 +37,8 @@
 				<data android:scheme="https" android:host="app.entel.cl" android:pathPrefix="/ul" />
 				<data android:scheme="https" android:host="app.entel.cl" android:pathPrefix="/Personas" />
 				<data android:scheme="https" android:host="app.entel.cl" android:pathPrefix="/Hogar" />
+				<data android:scheme="https" android:host="app.entel.cl" android:pathPrefix="/open/beneficios" />
+				<data android:scheme="https" android:host="app.entel.cl" android:pathPrefix="/open/boleta" />
 			</intent-filter>
 		</config-file>
 
